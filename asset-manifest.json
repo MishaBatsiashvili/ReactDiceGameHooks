@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/ReactDiceGameHooks/static/css/main.9e96e567.chunk.css",
+    "main.js": "/ReactDiceGameHooks/static/js/main.84ab6517.chunk.js",
+    "main.js.map": "/ReactDiceGameHooks/static/js/main.84ab6517.chunk.js.map",
+    "runtime-main.js": "/ReactDiceGameHooks/static/js/runtime-main.c2512374.js",
+    "runtime-main.js.map": "/ReactDiceGameHooks/static/js/runtime-main.c2512374.js.map",
+    "static/js/2.091cee80.chunk.js": "/ReactDiceGameHooks/static/js/2.091cee80.chunk.js",
+    "static/js/2.091cee80.chunk.js.map": "/ReactDiceGameHooks/static/js/2.091cee80.chunk.js.map",
+    "index.html": "/ReactDiceGameHooks/index.html",
+    "precache-manifest.b8f3cec70cc50b795647f24ddf30a2ec.js": "/ReactDiceGameHooks/precache-manifest.b8f3cec70cc50b795647f24ddf30a2ec.js",
+    "service-worker.js": "/ReactDiceGameHooks/service-worker.js",
+    "static/css/main.9e96e567.chunk.css.map": "/ReactDiceGameHooks/static/css/main.9e96e567.chunk.css.map",
+    "static/js/2.091cee80.chunk.js.LICENSE.txt": "/ReactDiceGameHooks/static/js/2.091cee80.chunk.js.LICENSE.txt",
+    "static/media/dice-1.png": "/ReactDiceGameHooks/static/media/dice-1.3c3e64d6.png",
+    "static/media/dice-2.png": "/ReactDiceGameHooks/static/media/dice-2.2137b390.png",
+    "static/media/dice-3.png": "/ReactDiceGameHooks/static/media/dice-3.c244a25e.png",
+    "static/media/dice-4.png": "/ReactDiceGameHooks/static/media/dice-4.f1615318.png",
+    "static/media/dice-5.png": "/ReactDiceGameHooks/static/media/dice-5.36eb76a6.png",
+    "static/media/dice-6.png": "/ReactDiceGameHooks/static/media/dice-6.927fb6c9.png",
+    "static/media/logo.svg": "/ReactDiceGameHooks/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c2512374.js",
+    "static/js/2.091cee80.chunk.js",
+    "static/css/main.9e96e567.chunk.css",
+    "static/js/main.84ab6517.chunk.js"
+  ]
+}
