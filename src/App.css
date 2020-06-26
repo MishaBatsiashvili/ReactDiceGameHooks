@@ -1,38 +1,69 @@
-.App {
-  text-align: center;
+button:focus{
+  outline: none;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.App{
+  width: 80%;
+  max-width: 500px;
+  min-width: 300px;
+  margin: 50px auto 0;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.dices-wrp{
   display: flex;
-  flex-direction: column;
+  justify-content: space-between;
   align-items: center;
+}
+
+.dice-img{
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+}
+
+.player-name{
+  text-align: center;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.start-restart-wrp{
+  display: flex;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
+  margin-top: 50px;
+}
+
+.start, .restart{
+  padding: 10px 15px;
+  border: none;
+  color: white;
+  cursor: pointer;
+}
+
+.start:hover, .restart:hover {
+  opacity: 0.8;
+}
+
+.start{
+  background: #19b077;
+}
+
+.restart{
+  background: #ee4b44;
+}
+
+.game-status{
+  padding: 20px;
   color: white;
 }
-
-.App-link {
-  color: #61dafb;
+.win-status{
+  background: #19b077;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.lose-status{
+  background: #ee4b44;
+}
+
+.draw-status{
+  background: #c5c5c5;
 }
